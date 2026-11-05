@@ -70,13 +70,7 @@ python src/gradcam.py --grid
 
 原始图像为 256×256 RGB，训练时统一缩放到 160×160。
 
-## 5. 需要替换的内容
-
-- 报告封面的“成员B—E”请替换为实际组员姓名
-- 报告第 8 章的分工表请按实际情况调整
-- 如果老师要求不同的课程名称/班级，请修改封面信息
-
-## 6. 结果文件
+## 5. 结果文件
 
 - `outputs/metrics/metrics.json`：总体指标
 - `outputs/metrics/classification_report.txt`：分类别指标
